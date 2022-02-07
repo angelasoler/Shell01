@@ -1,3 +1,3 @@
 #!/bin/sh
 
-find . -type f -name "*.sh" | rev | cut -c4- | rev | cut -c3-
+find . -type f -name "*.sh" -exec basename {} \; | rev | cut -c4- | rev
