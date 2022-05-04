@@ -1,5 +1,8 @@
 <h1 align="center">
-  Shell01 basecamp 42sp challenge
+  Shell01
+
+<a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cl263316l006809l0mxrfwgrw/project/2474831" alt="asoler's 42 Basecamp Shell 01 Score" /></a>
+  
 </h1>
 
 <p align="center">
